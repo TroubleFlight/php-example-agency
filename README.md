@@ -36,3 +36,6 @@ If the customer does not agree, they will be redirected to a standard affiliatio
 ## Contact
 
 For any technical questions, please email [claudio.mulas@troubleflight.com](mailto:claudio.mulas@troubleflight.com). For claim-related questions, email  [contact@troubleflight.com](mailto:contact@troublelfight.com).
+
+[Trouble Flight](https://www.troubleflight.com/)
+© 2020 - 2024. All right reserved. Doorify Tech S.R.L. The services available through the site are offered by Doorify Tech or its Partners.
