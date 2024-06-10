@@ -49,7 +49,7 @@ $data = [
 
 // Initialize cURL
 $ch = curl_init();
-curl_setopt($ch, CURLOPT_URL, "https://dev-a.ninjatrip.net/api/v3/claim/partner/new-booking");
+curl_setopt($ch, CURLOPT_URL, "https://a.troubleflight.com/api/v3/claim/partner/new-booking");
 curl_setopt($ch, CURLOPT_POST, 1);
 curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
